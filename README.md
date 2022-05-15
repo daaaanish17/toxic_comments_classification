@@ -12,4 +12,4 @@ We use nltk(Natural Language Toolkit) to perform these tasks:
 
 Converting comment_text column into text by using CountVectorizer().
 
-Then train our machine learning model( Multinomial Naive Bayes algorithm)
+Then train our machine learning model(Multinomial Naive Bayes algorithm)
