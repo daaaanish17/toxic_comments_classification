@@ -3,7 +3,7 @@ A project developed in Python.
 
 ## Information
 
-We use Python libraries(Pandas, nltk(Natural Language Toolkit)) to developed this project.
+We use Python libraries(Pandas, nltk(Natural Language Toolkit), re(Regular Expression)) to developed this project.
 
 We use nltk(Natural Language Toolkit) to perform these tasks:
 * Removing stopwords (eliminate words that are so commonly used that they carry very little useful information.)
